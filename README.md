@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alamin-Balogun
 - 👀 I’m interested in coding 
-- 🌱 I’m currently web design  
+- 🌱 I’m currently studying computer science  
 - 💞️ I’m looking to collaborate on any web development project 
 - 📫 How to reach me email
 - 😄 Pronouns: he/him
